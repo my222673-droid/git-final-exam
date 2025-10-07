@@ -13,3 +13,10 @@ Kỹ năng:
 - Python
 - HTML/CSS
 - Làm việc nhóm
+
+Kế hoạch học tập:
+- Ôn lại Git cơ bản (1 ngày).
+- Thực hành branch/merge (2 ngày).
+- Thử xử lý conflict (1 ngày).
+- Tổng hợp và ôn lại (1 ngày).
+- Chuẩn bị nộp báo cáo (1 ngày).
