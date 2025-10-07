@@ -1,0 +1,5 @@
+Tính năng mới: Tự động lưu nháp.
+Mô tả: Khi người dùng đang soạn, định kỳ lưu nội dung.
+Lý do: Tránh mất dữ liệu khi trang bị gián đoạn.
+Phạm vi: Giao diện web editor.
+Ghi chú: Cần test và review trước khi merge.
